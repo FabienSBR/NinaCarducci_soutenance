@@ -4,7 +4,7 @@ Ce projet porte sur l'optimisation des performances et du référencement d'un s
 # Objectifs
 - Réduire le temps de chargement des pages
 - Améliorer le classement dans les résultats de recherche
-- Renforcer l'accessibilité pour tous les utilisateurs
+- Renforcer l'accessibilité 
 
 # Réalisations
 - Comparatif avant et après optimisation des performances avec des scores Lighthouse
@@ -12,4 +12,4 @@ Ce projet porte sur l'optimisation des performances et du référencement d'un s
   - Compression et optimisation des images
   - Différer le chargement des scripts et minification des fichiers JavaScript et CSS
   - Optimisation du référencement avec des balises HTML et des données structurées
-- Améliorations pour l'accessibilité du site
+- Améliorations de l'accessibilité du site
