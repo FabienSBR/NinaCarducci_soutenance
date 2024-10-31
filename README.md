@@ -12,5 +12,4 @@ Ce projet porte sur l'optimisation des performances et du référencement d'un s
   - Compression et optimisation des images
   - Différer le chargement des scripts et minification des fichiers JavaScript et CSS
   - Optimisation du référencement avec des balises HTML et des données structurées
-- Améliorations pour l'accessibilité du site, incluant des ajustements de couleurs, l'ajout de balises ARIA et l'association des labels aux éléments de formulaire
-- Détails de réalisations additionnelles pour le référencement local, telles que l'intégration de données structurées et de balises pour les réseaux sociaux
+- Améliorations pour l'accessibilité du site
